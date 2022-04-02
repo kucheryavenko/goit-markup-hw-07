@@ -140,8 +140,7 @@
     .checkbox__input:checked + & {
         background-color: $accentColor;
         border-color: $accentColor;
-        // background-image: url(../images/check-activ.svg);
-        background-image: url(/images/check-activ.svg);
+        background-image: url(../images/check-activ.svg);
         background-size: contain;
         background-origin: border-box;
     }
